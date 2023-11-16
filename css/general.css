@@ -1,0 +1,12 @@
+
+body{
+      font-family: Roboto, Arial;
+      margin: 0px;
+      padding-top: 80px;
+      padding-left: 95px;
+      padding-right: 25px;
+      background-color: rgb(245, 245, 245);
+}
+.container{
+      min-width: 200px;
+}
